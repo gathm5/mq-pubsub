@@ -1,0 +1,30 @@
+{
+  "name": "mq-pubsub",
+  "version": "1.0.0",
+  "description": "Node based message queue helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautham1985/mq-pubsub.git"
+  },
+  "keywords": [
+    "redis-smq",
+    "message",
+    "queue",
+    "pubsub",
+    "nodejs",
+    "javacript"
+  ],
+  "author": "Gautham Stalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautham1985/mq-pubsub/issues"
+  },
+  "homepage": "https://github.com/gautham1985/mq-pubsub#readme",
+  "dependencies": {
+    "redis-smq": "1.0.21"
+  }
+}
